@@ -1,189 +1,157 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Asaf Reucher Correa Arroyo
+  label: Computer Science Researcher & AI Engineer
+  email: asafcorrea20@gmail.com
+  location: Piura, Peru
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  # summary: "Computer Science graduate (Cum Laude, 2.5 years) specializing in low-resource NLP, machine translation, model compression, and applied AI for urban safety."
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: asafcorrea
     - network: LinkedIn
-      username: example
+      username: asafcorrea
+    - network: ORCID
+      username: 0009-0002-5406-5128
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    region: Peru
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Biola University
+        location: La Mirada, CA, USA
+        url: https://www.biola.edu/degrees/u/computer-science-bs
+        area: Computer Science (Data Science & Information Systems)
+        studyType: B.S. in Computer Science
+        date: "AUG 2023 – DEC 2025"
+        score: "3.617 / 4.00 (Cum Laude)"
+        summary: "Minor in Biblical and Theological Studies.<br>Completed a 4-year Bachelor of Science curriculum in 2.5 years (graduated at age 19).<br><br><strong>Honors:</strong> President's Scholarship, Dean's List (SEP 2024 – DEC 2025), Larry Acosta Scholarship, Good Shepherd Scholarship.<br><br><strong>William Lowell Putnam Mathematical Competition:</strong> Participated in 2023, 2024, and 2025; scored 3 points in first-time participation (2023), recognized in official university news."
+        courses:
+          - Deep Learning
+          - Theory of Algorithms
+          - Data Structures
+          - Nature of Computing
+          - Probability & Statistics
+          - Advanced Topics in Mathematics
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Idiap Research Institute
+        position: Student Research Assistant (Remote)
+        location: Switzerland (Remote)
+        date: "AUG 2026 – PRESENT"
+        summary: "Media & Information Interaction Group — Project: A Cross-Cultural Study of Podcasts for Well-Being Information Dissemination."
         highlights:
-          - Relativity
-          - Description 2.
+          - "Conducted literature review on topic modeling and evaluation methods."
+          - "Performed data preparation, processing, and data engineering for a multilingual podcast corpus."
+          - "Designed and executed LLM-based experiments for content analysis."
+          - "**Skills:** NLP, topic modeling, multilinguality."
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Runasimi-MT Project
+        position: Independent Researcher
+        location: Peru (Remote)
+        date: "2026 – PRESENT"
+        summary: "Neural Machine Translation for Agglutinative Low-Resource Languages (Quechua, Aymara)."
         highlights:
-          - Description 1.
-          - Description 2.
+          - "**Runasimi-MT:** Fine-tuned NLLB-200-distilled-600M on Spanish-Quechua/Aymara corpora (chrF++ 42.68 and 43.10); see Publications."
+          - "**Morphology-Aware Tokenization for Agglutinative NMT (In Progress):** Designing a Quechua/Aymara-specific subword tokenizer to address suffix-boundary fragmentation limiting the Runasimi-MT results. Code available upon request."
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Biola University
+        position: "Undergraduate Research: Secure Gait Recognition System"
+        location: La Mirada, CA, USA
+        date: "SEP – DEC 2025"
+        summary: "Advisor: Dr. Wonjun Lee"
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Collaborated in a team of three to develop a biometric security system using Spatial-Temporal Graph Convolutional Networks (ST-GCN), analyzing adversarial resilience against spoofing and replay attacks via MediaPipe skeletal data."
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: Biola University
+        position: "Undergraduate Research: NLP for Low-Resource Dialects"
+        location: La Mirada, CA, USA
+        date: "JAN – DEC 2025"
+        summary: "Advisor: Dr. Yohan Lee, Dean"
+        highlights:
+          - "Designed matrix encodings for bilingual text pairs targeting Peruvian Spanish medical dialects; validated translation outputs in TensorFlow, addressing colloquialism and emotional-accuracy challenges in healthcare interpretation."
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: Biola University
+        position: "Undergraduate Research: LLMs for Stock-Keeping-Unit Generation"
+        location: La Mirada, CA, USA
+        date: "JAN – MAY 2025"
+        summary: "Advisor: Dr. Shieu-Hong Lin"
+        highlights:
+          - "Fine-tuned Transformer models for automated inventory description generation; designed exact-match and edit-distance evaluation protocols, optimizing for low-resource inference environments."
+
+      - company: Biola University
+        position: Teaching Assistant
+        location: La Mirada, CA, USA
+        date: "JAN – DEC 2025"
+        summary: "Department of Computer Science"
+        highlights:
+          - "TA for Nature of Computing, Data Structures, and Programming Languages; mentored students on algorithms and debugging, and assisted in grading technical assignments."
+
+      - company: Biola Cybersecurity Club
+        position: Founder & President
+        location: La Mirada, CA, USA
+        date: "JAN – DEC 2025"
+        summary: "Leadership & Teaching Experience"
+        highlights:
+          - "Joined as an National Cyber League participant (Fall 2023); led the team (Spring 2025) and formalized the club (Fall 2025); organized weekly workshops and established a mentorship pipeline."
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Fine-Tuning a 600M NLLB-200 Model for Low-Resource Spanish-Quechua Machine Translation"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - "A. R. Correa Arroyo"
+          - "R. Correa Morocho"
+        publisher: "IEEE INTERCON 2026"
+        date: "2026"
+        summary: "Accepted for Oral Presentation at INTERCON 2026 (IEEE). Code available upon request."
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+    Projects:
+      - name: Cascade System for Context-Aware Urban Violence Detection
+        date: "AUG – SEP 2026"
+        summary: "Developed a three-stage cascade architecture for urban surveillance video: person tracking (YOLOv8 + ByteTrack), weapon detection (YOLOv9s on SOHAS), and temporal classification (TriPath3DNet on R3D-18)."
+        highlights:
+          - "Designed a bounded additive boost mechanism for contextual support variables (weapon presence, proximity) calibrated via constrained search, avoiding overfitting observed in a prior higher-freedom formulation."
+          - "Built with PyTorch and Google Colab, with a focus on computational feasibility for edge deployment."
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - name: Network Intrusion Detection with Hybrid CNN-LSTM and Autoencoder
+        date: "JUL 2026"
+        summary: "Designed a multi-class intrusion detection system on CICIoT23 (5.5M training rows) combining an LSTM autoencoder for unsupervised anomaly detection and a hybrid CNN-LSTM classifier for 34 attack classes."
+        highlights:
+          - "Implemented streaming feature scaling and chunk-based data pipelines to handle large-scale datasets within memory constraints."
+          - "Explored sparsity techniques on dense layers and identified the need for structural compaction to achieve actual model size reduction, using TensorFlow/Keras and Google Colab."
+
+    Awards:
+      - title: "Cum Laude Graduation Honors"
+        awarder: "Biola University"
+        date: "DEC 2025"
+        summary: "Graduated with honors in Computer Science (GPA 3.617) in 2.5 years."
+
+      - title: "Dean's List"
+        awarder: "Biola University"
+        date: "2024 – 2025"
+        summary: "Recognized continuously across academic terms for high scholastic achievement."
+
+      - title: "Academic & Institutional Scholarships"
+        awarder: "Biola University"
+        date: "2023 – 2025"
+        summary: "Recipient of the President's Academic Scholarship (merit-based excellence), The Good Shepherd Scholarship (STEM vocational leadership), and the Larry Acosta Scholarship (community engagement)."
+
+      - title: "William Lowell Putnam Mathematical Competition"
+        awarder: "Mathematical Association of America (MAA)"
+        date: "2023 – 2025"
+        summary: "Official participant in 2023, 2024, and 2025. Scored 3 points in first-time participation (2023); recognized in university news."
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Core Technologies & Tools
+        level: Advanced
+        keywords: "Python, PyTorch, TensorFlow, Keras, Hugging Face Transformers, C++, SQL, Git, Linux, LaTeX"
 
     Languages:
-      - name: German
+      - name: Spanish
         summary: "Native speaker"
-
       - name: English
         summary: "Fluent"
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Research Interests
+        keywords: "Natural language processing, low-resource, machine translation, efficient model compression, computer vision, multimodal grounding, sample-efficient language learning"
