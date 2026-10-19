@@ -24,15 +24,15 @@ tags: [Natural Language Processing, Machine Translation, Low-Resource Languages,
 
 ### Abstract and Motivation
 
-Quechua represents the most widely spoken indigenous language family in the Americas, with the Peruvian variety alone encompassing over three million speakers. Despite its profound sociolinguistic significance, it remains severely underrepresented in the field of Natural Language Processing (NLP), categorized as a low-resource language due to the extreme scarcity of clean, large-scale, and openly accessible parallel corpora. 
+Quechua represents the most widely spoken indigenous language family in the Americas, with the Peruvian variety alone encompassing over three million speakers. Despite its profound sociolinguistic significance, it remains severely underrepresented in the field of Natural Language Processing (NLP), categorized as a low-resource language due to the extreme scarcity of clean, large-scale, and openly accessible parallel corpora.
 
 This research investigates the efficacy of a reproducible, computationally efficient fine-tuning pipeline utilizing the distilled **600M-parameter variant of Meta's NLLB-200** model. Rather than depending on heavy, industrialized compute clusters, our objective was to rigorously evaluate the performance achievable by a mid-sized architecture when trained end-to-end on raw, uncurated community-generated data—specifically, the **102,000 sentence pairs derived from the SomosNLP 2022 Spanish-Quechua corpus**.
 
 ### Key Methodological Contributions and Results
 
-* **In-Domain Evaluation:** When evaluated on the held-out test partition of the SomosNLP dataset, our fully fine-tuned 600M model achieved a **42.68 chrF++** score (and **17.67 BLEU**).
-* **Cross-Dataset Generalization:** Evaluated without subsequent adaptation on the official **AmericasNLP 2024 development set**, the model attained **51.88 chrF++**. While numerically surpassing previous published benchmarks—including models scaled at 1.3B and 3.3B parameters—our qualitative error analysis and data provenance evaluation demonstrated that this outcome is substantially influenced by topical and stylistic overlap between datasets rather than pure architectural dominance.
-* **Structural Bottlenecks:** The study explicitly underscores that subword tokenization granularity (which fails to align cleanly with Quechua's agglutinative and synthetic morphology) and unmitigated corpus noise constitute the primary bottlenecks restricting translation fidelity in low-resource environments.
+- **In-Domain Evaluation:** When evaluated on the held-out test partition of the SomosNLP dataset, our fully fine-tuned 600M model achieved a **42.68 chrF++** score (and **17.67 BLEU**).
+- **Cross-Dataset Generalization:** Evaluated without subsequent adaptation on the official **AmericasNLP 2024 development set**, the model attained **51.88 chrF++**. While numerically surpassing previous published benchmarks—including models scaled at 1.3B and 3.3B parameters—our qualitative error analysis and data provenance evaluation demonstrated that this outcome is substantially influenced by topical and stylistic overlap between datasets rather than pure architectural dominance.
+- **Structural Bottlenecks:** The study explicitly underscores that subword tokenization granularity (which fails to align cleanly with Quechua's agglutinative and synthetic morphology) and unmitigated corpus noise constitute the primary bottlenecks restricting translation fidelity in low-resource environments.
 
 <div class="row mt-4 justify-content-center gx-3">
     <div class="col-6 col-md-4 text-center px-2 mb-3 mb-md-0">
@@ -51,7 +51,7 @@ This research investigates the efficacy of a reproducible, computationally effic
 
 In compliance with academic publishing guidelines regarding author-hosted preprints and accepted manuscripts, the complete publication text is openly accessible for review:
 
-* **[Download Full Research Paper (PDF)](../../assets/pdf/INTERCON.pdf)** *(Hosted via GitHub Pages)*
+- **[Download Full Research Paper (PDF)](../../assets/pdf/INTERCON.pdf)** _(Hosted via GitHub Pages)_
 
 ### Acknowledgments and Future Directions
 

@@ -38,6 +38,6 @@ My research interests include:
 
 I am currently a Student Research Assistant at the **Media & Information Interaction Group**, **Idiap Research Institute** (remote), working on a cross-cultural study of podcasts for well-being information dissemination. I also work independently on neural machine translation for agglutinative low-resource languages such as Quechua and Aymara.
 
-I hold a B.S. in Computer Science (Data Science & Information Systems) from **Biola University**, where I graduated *Cum Laude* at age 19 after completing the four-year curriculum in 2.5 years.
+I hold a B.S. in Computer Science (Data Science & Information Systems) from **Biola University**, where I graduated _Cum Laude_ at age 19 after completing the four-year curriculum in 2.5 years.
 
 I am open to remote research collaborations and always happy to discuss ideas in low-resource NLP, efficient ML, or applied AI. I am also currently applying to PhD programs, and I welcome any opportunity to connect with research groups working in related areas.

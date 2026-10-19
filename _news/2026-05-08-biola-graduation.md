@@ -24,15 +24,16 @@ tags: [Computer Science, Biola University, Academic Milestone, Undergraduate]
 
 ### Academic Rigor and Leadership
 
-Completing an intensive degree program in an accelerated timeframe required deep engagement with advanced theoretical coursework—spanning Deep Learning, Theory of Algorithms, Data Structures, and Probability & Statistics. 
+Completing an intensive degree program in an accelerated timeframe required deep engagement with advanced theoretical coursework—spanning Deep Learning, Theory of Algorithms, Data Structures, and Probability & Statistics.
 
 Beyond the classroom, I focused on academic leadership and community building:
-- **Teaching Assistant:** Served as a TA for core departmental courses including *Nature of Computing*, *Data Structures*, and *Programming Languages* (Spring and Fall 2025 terms), mentoring peers in algorithmic design and debugging.
+
+- **Teaching Assistant:** Served as a TA for core departmental courses including _Nature of Computing_, _Data Structures_, and _Programming Languages_ (Spring and Fall 2025 terms), mentoring peers in algorithmic design and debugging.
 - **Cybersecurity Club:** Founded and led Biola’s official Cybersecurity Club as President through 2025, organizing technical workshops and competitive pipelines following my participation in the National Cyber League (NCL).
 
 ### Commencement Honors and Recognition
 
-The commencement ceremony brought together the mentors, faculty, and peers who supported this rigorous path. 
+The commencement ceremony brought together the mentors, faculty, and peers who supported this rigorous path.
 
 <div class="row mt-4 justify-content-center gx-3">
     <div class="col-6 col-md-4 text-center px-2 mb-3 mb-md-0">
