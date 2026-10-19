@@ -34,7 +34,7 @@ concurrency:
 
 jobs:
   release:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     # This repo is a template. Without this guard, every site generated from it
     # would expose a workflow that cuts releases of somebody else's project.
     if: github.repository == 'alshedivat/al-folio'

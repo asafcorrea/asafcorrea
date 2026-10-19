@@ -16,7 +16,7 @@ permissions:
 jobs:
   rendercv:
     name: RenderCV
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04 # ubuntu-latest
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-python@v7
