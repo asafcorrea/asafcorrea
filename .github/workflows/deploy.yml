@@ -50,7 +50,7 @@ jobs:
       - name: Install JS deps & Build Assets 📦
         run: |
           npm ci
-          npm run build:assets --if-present || true
+          npm run build:tailwind || true
 
       - name: Build with Jekyll 🔧
         run: |
