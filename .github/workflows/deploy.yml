@@ -47,8 +47,10 @@ jobs:
           node-version: "20"
           cache: "npm"
 
-      - name: Install JS deps 📦
-        run: npm ci
+      - name: Install JS deps & Build Assets 📦
+        run: |
+          npm ci
+          npm run build:assets --if-present || true
 
       - name: Build with Jekyll 🔧
         run: |
@@ -60,7 +62,7 @@ jobs:
       - name: Upload artifact 📤
         uses: actions/upload-pages-artifact@v3
         with:
-          path: _site
+          path: ./_site
 
       - name: Deploy to GitHub Pages 🚀
         id: deployment
