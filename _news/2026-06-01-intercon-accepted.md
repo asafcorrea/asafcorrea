@@ -50,8 +50,8 @@ This research investigates the efficacy of a reproducible, computationally effic
 ### Access to the Manuscript
 
 In compliance with academic publishing guidelines regarding author-hosted preprints and accepted manuscripts, the complete publication text is openly accessible for review:
-
-- **[Download Full Research Paper (PDF)](../../assets/pdf/INTERCON.pdf)** _(Hosted via GitHub Pages)_
+- **[View on IEEE Xplore](https://ieeexplore.ieee.org/document/11768063/)**
+- **[Download Full Research Paper (PDF)](../../assets/pdf/INTERCON.pdf)**
 
 ### Acknowledgments and Future Directions
 
